@@ -1,7 +1,7 @@
 {
     "conditions": [
       {
-        "name": "Flower",
+        "name": "Thyroid",
         "imagesrc":"flower.jpg",
         "symptoms": [
           "Fatigue",
@@ -18,7 +18,7 @@
         "treatment": "Medication like levothyroxine may be prescribed by a doctor."
       },
       {
-        "name": "Flower",
+        "name": "Diabetes",
         "imagesrc":"flower2.jpg",
         "symptoms": [
           "Frequent urination",
@@ -35,7 +35,7 @@
         "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
       },
       {
-        "name": "Flower3",
+        "name": "High Blood Pressure",
         "imagesrc":"flower3.jpg",
         "symptoms": [
           "Headaches",
